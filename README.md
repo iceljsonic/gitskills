@@ -1,4 +1,5 @@
 
-Creating a new barnch is quick & simple.
+
+Creating a new barnch is quick and simple.
 
 # gitskills
